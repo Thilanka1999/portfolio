@@ -21,7 +21,7 @@ repository               : "thilanka1999.github.io/portfolio"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://avatars.githubusercontent.com/u/75206560?v=4"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
