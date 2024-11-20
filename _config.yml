@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Thilanka Widanagamage"
+title                    : "Thilanka"
 title_separator          : "-"
 name                     : &name "Thilanka Widanagamage"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "https://avatars.githubusercontent.com/u/75206560?v=4"
   name             : "Thilanka Widanagamage"
   pronouns         : # example: "she/her"  
-  bio              : "technology enthusiast passionate about innovation and learning new skills."
+  bio              : "Technology enthusiast passionate about innovation and learning new skills."
   location         : "Colombo, Sri Lanka"
   employer         : "University Of Moratuwa"
   uri              : # URL
