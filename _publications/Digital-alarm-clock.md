@@ -1,10 +1,10 @@
 ---
-title: "Paper Title Number 3"
+title: "Digital Alarm Clock Design"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2020-01-01
+date: 2021-01-01
 venue: 'University Of Moratuwa'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://github.com/nima34366/alarm_clock'
