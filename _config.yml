@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Thilanka Widanagamage"
 description              : &description "personal description"
 url                      : https://thilanka1999.github.io/portfolio # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "/portfolio" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Thilanka1999/portfolio"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
