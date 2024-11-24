@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Final Year Research Project Conduct in University Of Moratuwa'
 date: 2024-07-01
-venue: 'Journal 1'
+venue: 'University Of Moratuwa'
 slidesurl: ''
 paperurl: 'https://github.com/Avishka-Perera/multitask-pipeline'
 citation: ''
