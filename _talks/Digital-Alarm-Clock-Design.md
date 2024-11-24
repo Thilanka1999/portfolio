@@ -1,15 +1,11 @@
 ---
-title: "Digital Alarm Clock Design"
+title: "
+Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization"
 collection: talks
-type: "Microcontroller Design, C++"
-permalink: /talks/2013-03-01-tutorial-1
-date: 2021-01-01
-venue: "University of Moratuwa"
+type: "Machine Learning and ComputerVision"
+permalink: /talks/2014-03-01-talk-3
+venue: "DeepLearning.Ai"
+date: 2023-12-26 
+location: "Coursera"
 ---
-
-
-We have designed a digital alarm clock using an ATmega microcontroller, primarily implementing the work in AVR C++. Our alarm clock allows setting the date and time, configuring up to three different alarms, and selecting different tones for each alarm. These are the primary functions our alarm clock performs.
-
-We used the ATMega644P microcontroller and the DS3231 RTC IC. A display module provides the user interface, along with a keypad and two buttons to perform the tasks mentioned above and to power the alarm on and off. Firmware development was done in C++ using Microchip Studio.
-
-A compact and neat PCB was designed with SMD components using Altium Designer. The PCB was fabricated, hand-soldered, and tested to ensure accurate performance. An attractive and user-friendly enclosure was created in SolidWorks, integrating all supporting components.
+from this course i learned best practices to train and develop test sets and analyze bias/variance for building deep learning applications; be able to use standard neural network techniques such as initialization, L2 and dropout regularization, hyperparameter tuning, batch normalization, and gradient checking; implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence; and implement a neural network in TensorFlow. [Course cerification](https://www.coursera.org/account/accomplishments/records/68FPJNKD5AEG)
