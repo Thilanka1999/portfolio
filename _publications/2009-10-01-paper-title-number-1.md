@@ -1,14 +1,19 @@
 ---
-title: "Paper Title Number 1"
+title: "World Model - Generalized Human Level Vision Model"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 2024-07-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+In this project, we developed an encoder model capable of extracting context, flow, and depth features from monocular videos. The uniqueness of this model lies in its ability to extract all three features using a single encoder, making it similar to human vision. The encoder is a CNN-based model called ConvNext, which is an improvement over the ResNet architecture, influenced by transformer architectures.
+
+To provide the model with context understanding, we used the VICReg method. This involves minimizing the distance between embeddings from two augmented images, maintaining variance across a batch of embeddings, and removing relationships across embedding dimensions. The model is hierarchical, meaning that intermediate-level features are also extracted and used for reconstruction.
+
+For flow and depth learning, we employed a more complex architecture. By using three frames to calculate the cost volume, we aimed to reconstruct the flow. Additionally, using left and right views of the images, we attempted to reconstruct the left view from the right using projection and smoothness errors. A transformer-based method was used to capture the connections along the temporal axis. These operations were performed at each hierarchical level, and connections between the hierarchies were established using an LSTM-based method. Finally, after aggregating all this information, a split decoder architecture was used to output both flow and depth.
