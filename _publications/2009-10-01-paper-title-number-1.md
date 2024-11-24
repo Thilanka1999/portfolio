@@ -7,7 +7,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2024-07-01
 venue: 'Journal 1'
 slidesurl: ''
-paperurl: ''
+paperurl: 'https://github.com/Avishka-Perera/multitask-pipeline'
 citation: ''
 ---
 
