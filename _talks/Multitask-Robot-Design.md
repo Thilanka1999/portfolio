@@ -7,7 +7,7 @@ permalink: /talks/2014-02-01-talk-2
 date: 2022-01-01
 venue: "University of Moratuwa"
 ---
-
+ 
 We have designed a multitasking robot with the following root tasks: line following, wall following, object detection, color detection, carrying objects to designated places, and shooting a ball object to a goal position.
 
 This project was implemented in C++. For the line-following task, we used an IR sensor array and implemented a PID algorithm (Proportional, Integral, Derivative), which allowed us to achieve accurate line following.
