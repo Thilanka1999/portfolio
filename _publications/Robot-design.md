@@ -8,7 +8,7 @@ date: 2021-03-03
 venue: 'University Of Moratuwa'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://github.com/GevinduGanganath/Robocop.git'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Semester project completed in university of Moratuwa'
 ---
 
 
