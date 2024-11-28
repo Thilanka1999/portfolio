@@ -16,20 +16,12 @@ Education
 
 Work experience
 ======
-* Millennium IT ESP (Pvt) Ltd | Internship - Cybersecurity 
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Millennium IT ESP (Pvt) Ltd  Internship - Cybersecurity 
+  * I have also worked on branch firewall upgrades, implementing best practices, and gaining a deeper understanding
+of the larger network structure. During a Zscaler deployment project, I was involved in adding users, creating
+policies, troubleshooting user access issues, and analyzing data and user traffic for investigative purposes.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Tools
 ======
@@ -37,11 +29,13 @@ Tools
 * Tensorflow
 * Keras
 * Opencv
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+Languages
+======
+* Python
+* C++
+* Javascript
+
 
 Projects
 ======
