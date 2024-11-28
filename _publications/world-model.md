@@ -8,7 +8,7 @@ date: 2024-07-01
 venue: 'University Of Moratuwa'
 slidesurl: ''
 paperurl: 'https://github.com/Avishka-Perera/multitask-pipeline'
-citation: ''
+citation: 'Final Year Research Project, University Of Moratuwa'
 ---
 
 
