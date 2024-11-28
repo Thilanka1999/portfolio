@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 * Millennium IT ESP (Pvt) Ltd  Internship - Cybersecurity 
-  * I have also worked on branch firewall upgrades, implementing best practices, and gaining a deeper understanding
+  * I have worked on branch firewall upgrades, implementing best practices, and gaining a deeper understanding
 of the larger network structure. During a Zscaler deployment project, I was involved in adding users, creating
 policies, troubleshooting user access issues, and analyzing data and user traffic for investigative purposes.
 
