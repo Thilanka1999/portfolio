@@ -1,23 +1,16 @@
 ---
-title: "
-Multitask Robot Design"
+title: "Natural Language Processing with Classification and Vector Spaces"
 collection: talks
 type: "Robotics  and Image Processing"
 permalink: /talks/2014-02-01-talk-2
 date: 2022-01-01
-venue: "University of Moratuwa"
+venue: "Machine Learning and NLP, DeepLearning.Ai, Coursera"
 ---
+
+ From this certification I have gained knowledge in following areas,
  
-We have designed a multitasking robot with the following root tasks: line following, wall following, object detection, color detection, carrying objects to designated places, and shooting a ball object to a goal position.
+a) Perform sentiment analysis of tweets using logistic regression and then naïve Bayes, 
+b) Use vector space models to discover relationships between words and use PCA to reduce the dimensionality of the vector space and visualize those relationships, and
+c) Write a simple English to French translation algorithm using pre-computed word embeddings and locality-sensitive hashing to relate words via approximate k-nearest neighbor search.  
 
-This project was implemented in C++. For the line-following task, we used an IR sensor array and implemented a PID algorithm (Proportional, Integral, Derivative), which allowed us to achieve accurate line following.
-
-Wall following was carried out using two ultrasonic sensors, and we also used a PID algorithm for this task, which resulted in precise wall following. Additionally, we needed to track whether we had visited a specific location or not, so we used a cell-filling method to structure the wall maze as a grid. We kept track of visited nodes, and at each junction, we determined the direction (left or right) based on this data.
-
-For object detection, we used a Raspberry Pi camera module. We applied image processing techniques to detect cylindrical and square-shaped objects by checking basic geometric relationships. We extracted geometric features using image processing, including corner detection and edge detection, and calculated distances to determine whether an object was square or cylindrical.
-
-After detecting objects, we needed to locate matching holes in which to place these objects. This task was completed using mechanical arms on the robot, and we reused the above image processing techniques for this purpose.
-
-Next, based on a given color, we needed to pick up a colored ball and exit the color-specific area, follow a new line track, and shoot the ball into the relevant goal. This was accomplished using a mechanical solenoid.
-
-For floor color detection, we used an additional color sensor module. This was necessary because the objects were placed in areas with different floor colors.
+In there I have designed NLP applications that perform question-answering and sentiment analysis, created tools to translate languages and summarize text.
