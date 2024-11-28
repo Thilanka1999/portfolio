@@ -8,7 +8,7 @@ date: 2021-01-01
 venue: 'University Of Moratuwa'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://github.com/nima34366/alarm_clock'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Semester Project completed in University of Moratuwa'
 ---
 
 
