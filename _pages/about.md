@@ -24,7 +24,7 @@ Education
 
 Frameworks and Tools
 ======
-Pytorch, Tensorflow, Opencv, Pandas, Docker, AWS EC2, Atmel Studion, Arduino, Matlab, Mathematica
+Pytorch, Tensorflow, Opencv, Pandas, Docker, AWS , Atmel Studion, Arduino, Matlab, Mathematica
 
 Programming Languages
 ------
