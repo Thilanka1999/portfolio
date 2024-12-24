@@ -3,7 +3,7 @@ title: "Face Recognizer"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This project is about finding faces when we gives as input'
+excerpt: 'This projects is show case of full complete industry level delpyoment.'
 date: 2024-02-17
 venue: 'Individual project'
 paperurl: 'https://github.com/Thilanka1999/FaceRecognizer.git'
