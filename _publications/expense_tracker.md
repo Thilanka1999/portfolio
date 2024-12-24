@@ -1,7 +1,7 @@
 ---
 title: "Expense Tracker React App"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2024-01-01
@@ -11,9 +11,4 @@ paperurl: 'https://github.com/nima34366/alarm_clock](https://github.com/Thilanka
 citation: 'React Development project'
 ---
 
-
-We have designed a digital alarm clock using an ATmega microcontroller, primarily implementing the work in AVR C++. Our alarm clock allows setting the date and time, configuring up to three different alarms, and selecting different tones for each alarm. These are the primary functions our alarm clock performs.
-
-We used the ATMega644P microcontroller and the DS3231 RTC IC. A display module provides the user interface, along with a keypad and two buttons to perform the tasks mentioned above and to power the alarm on and off. Firmware development was done in C++ using Microchip Studio.
-
-A compact and neat PCB was designed with SMD components using Altium Designer. The PCB was fabricated, hand-soldered, and tested to ensure accurate performance. An attractive and user-friendly enclosure was created in SolidWorks, integrating all supporting components..
+Click the link to see the projects 
